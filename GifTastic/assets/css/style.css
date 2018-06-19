@@ -1,0 +1,17 @@
+body {
+    margin-bottom: 64px;
+    background-color: lightgoldenrodyellow;
+}
+
+h1{
+    text-align: center;
+    color: blueviolet;
+}
+
+
+
+#gif-label{
+    padding-top: 8px;
+    height: 40px;
+    border-radius: 3px;
+}
